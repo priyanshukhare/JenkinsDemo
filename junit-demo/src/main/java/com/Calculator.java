@@ -34,6 +34,7 @@ public class Calculator {
 		System.out.println("Adding operation: "+c.add(20,30));
 		System.out.println("Subtraction operation: "+c.sub(40,10));
 		System.out.println("Multiply operation: "+c.multiply(40,10));
+		System.out.println("Divide operation: "+c.divide(40,10));
 		System.out.println("**************Finished*************** ");
 	}
 
