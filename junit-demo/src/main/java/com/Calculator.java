@@ -12,7 +12,7 @@ public class Calculator {
 		return a-b;
 	}
 
-	public int devide(int a, int b)
+	/*public int divide(int a, int b)
 	{
 		return a/b;
 	}
@@ -25,7 +25,7 @@ public class Calculator {
 	public void printSquare(int a)
 	{
 		System.out.println(a*a);
-	}
+	}*/
 	
 	public static void main(String[] args)
 	{
